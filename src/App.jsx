@@ -13,6 +13,7 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 import { ChainId, DAppProvider } from "@usedapp/core";
+import Anatomy from "./Components/Anatomy";
 
 const config = {
   readOnlyChainId: ChainId.Mainnet,
@@ -36,6 +37,8 @@ function App() {
 
         {/* Slider */}
         <Slider />
+
+        {/* <Anatomy /> */}
 
         {/* About */}
         <About />
