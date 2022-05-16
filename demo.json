@@ -1,0 +1,17 @@
+{
+  "name": "The Thinky Blinky Monsters2",
+  "description": "The Thinky Blinky Monsters are a series of randomly generated NFTs on the Ethereum blockchain. The first edition is made up of 20,000 monsters with approximately 350 attributes; each one having to do with their specialty and how they help you. The potential number of unique combinations exceeds 6 billion in total. There is one entirely different \"Pa-Ma Monster\" who is the parent of all the Thinky Blinky Monsters.",
+  "fee_recipient": "0xE24e33f6789FF320b63e9b84C46b74E5600897Cc",
+  "seller_fee_basis_points": 300,
+  "image": "",
+  "external_url": "",
+  "attributes": [
+    { "trait_type": "Layer 1", "value": "Beige Background" },
+    { "trait_type": "Layer 2", "value": "Spikes - Purple" },
+    { "trait_type": "Layer 3", "value": "Bulb Lug - Orange" },
+    { "trait_type": "Layer 4", "value": "Grappler - Orange" },
+    { "trait_type": "Layer 5", "value": "Annoyed - 1 Eye - Blue" },
+    { "trait_type": "Layer 6", "value": "Smiley Pink Long Tongue" }
+  ],
+  "hash": "8eae71eb2e22f7b4146b512b31af46d8"
+}
